@@ -1,6 +1,6 @@
 # DSA-codes
 
-![pepcoding-dsa](https://socialify.git.ci/thatbeautifuldream/pepcoding-dsa/image?description=1&descriptionEditable=This%20repository%20consists%20of%20all%20the%20material%20from%20my%20data%20structures%20and%20algorithms%20preparation.&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+![DSA-codes](https://socialify.git.ci/saum29/DSA-codes/image?description=1&descriptionEditable=This%20repository%20consists%20of%20all%20the%20material%20from%20my%20data%20structures%20and%20algorithms%20preparation.&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
 
 ## Level 1
 
@@ -30,11 +30,11 @@
 | Category           | Number Solved |
 | ------------------ | :-----------: |
 | Stacks and Queues  |      0/0      |
-| Linked Lists       |      0/2      |
+| Linked Lists       |      0/0      |
 | Generic Tree       |      0/0      |
 | Binary Tree        |      0/0      |
 | Binary Search Tree |      0/0      |
-| **Total**          |    **2/2**    |
+| **Total**          |    **0/0**    |
 
 ## [Dynamic Programming]()
 
