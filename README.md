@@ -8,8 +8,8 @@
 
 | Category                             | Number Solved |
 | ------------------------------------ | :-----------: |
-| Getting Started                        
-| Patterns                               |
+| Getting Started                        |   12/12     |
+| Patterns                               |             |
 | Function and Arrays                    |
 | 2D Arrays                              |
 | String, String Builder and ArrayList   |
